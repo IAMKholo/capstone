@@ -1,0 +1,7 @@
+package com.ecommerce.models;
+
+@Entity
+@Table(name="users")
+public class AppUser {
+
+}

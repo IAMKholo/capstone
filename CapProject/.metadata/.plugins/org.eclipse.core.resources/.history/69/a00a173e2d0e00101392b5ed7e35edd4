@@ -1,0 +1,8 @@
+package com.ecommerce.HomeController;
+
+
+@Controller
+public class HomeController {
+
+}
+
